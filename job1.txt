@@ -1,1 +1,7 @@
 hii this is job1
+devops
+git
+jenkins
+ansible
+docker
+aws
